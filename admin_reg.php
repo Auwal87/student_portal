@@ -6,7 +6,7 @@
 <center>
 <hr>
 <br>
-<h1>REGISTER ADMIN</h1>
+<h1>REGISTER ADMIN FOR LOGIN</h1>
 <form action="add_admin.php" method="POST">
 
 <input type="text" name="fullname" placeholder="fullname"><br>

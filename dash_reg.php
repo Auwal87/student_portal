@@ -9,7 +9,7 @@ include ('dashboard.php');
     <center>
         <form action="register.php" method="post" enctype="multipart/form-data">
 
-        <p>REGISTRATION FORM:</p>
+        <p>REGISTRATION FORMS:</p>
         <p>ENTER FULLNAME: <input type="text" name="fullname" id="fullname" required></p>
         <p>ENTER AGE:      <input type="text" name="age" id="age" required></p>
         <p>ENTER STATE:    <input type="text" name="state" id="state" required></p>
